@@ -21,7 +21,7 @@ Você pode acessar o projeto online [aqui]( https://juliano-l-chagas.github.io/f
 
 ## Como Abrir e Rodar o Projeto
 
-1.  Clone o repositório: `gh repo clone Juliano-L-Chagas/portifolio`
+1.  Clone o repositório: `gh repo clone Juliano-L-Chagas/feliz-aniversario-pagina-interativa`
 2.  Abra o arquivo `index.html` no seu navegador.
 
 ## Aprendizados

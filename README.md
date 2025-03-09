@@ -17,7 +17,7 @@ Este projeto consiste em uma página web interativa criada para celebrar o anive
 
 ## Acesso ao Projeto
 
-Você pode acessar o projeto online [aqui]( https://juliano-l-chagas.github.io/feliz-aniversario-pagina-interativa/).
+Você pode acessar o projeto online [aqui](https://juliano-l-chagas.github.io/feliz-aniversario-pagina-interativa/).
 
 ## Como Abrir e Rodar o Projeto
 

@@ -15,10 +15,6 @@ Este projeto consiste em uma página web interativa criada para celebrar o anive
 * CSS3: Estilização e layout da página.
 * Utilização de variáveis para customização de cores.
 
-## Acesso ao Projeto
-
-Você pode acessar o projeto online [aqui](https://juliano-l-chagas.github.io/feliz-aniversario-pagina-interativa/).
-
 ## Como Abrir e Rodar o Projeto
 
 1.  Clone o repositório: `gh repo clone Juliano-L-Chagas/feliz-aniversario-pagina-interativa`
